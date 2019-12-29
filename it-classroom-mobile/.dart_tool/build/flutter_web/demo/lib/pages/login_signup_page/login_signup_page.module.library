@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["demo|lib/services/authentication.dart","flutter|lib/material.dart","firebase_auth|lib/firebase_auth.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

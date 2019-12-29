@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647647011259",
+    "firebase_url": "https://anngularfirebase-student-app.firebaseio.com",
+    "project_id": "anngularfirebase-student-app",
+    "storage_bucket": "anngularfirebase-student-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647647011259:android:3a3e4bf72d6d4e1422e49e",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647647011259-olcmrvbmknr8gfl78qnh4jkncmcch4qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBASYyG_SfeAylpBVJy7sFAW-7AAcc2EhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647647011259-olcmrvbmknr8gfl78qnh4jkncmcch4qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

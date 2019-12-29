@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["demo|lib/models/Tree.dart","demo|lib/pages/list_tree_page/add_tree.dart","demo|lib/pages/list_tree_page/detail_tree.dart","flutter|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

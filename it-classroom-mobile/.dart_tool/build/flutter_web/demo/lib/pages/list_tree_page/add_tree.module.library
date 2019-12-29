@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","shared_preferences|lib/shared_preferences.dart","demo|lib/services/FirestoreService.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

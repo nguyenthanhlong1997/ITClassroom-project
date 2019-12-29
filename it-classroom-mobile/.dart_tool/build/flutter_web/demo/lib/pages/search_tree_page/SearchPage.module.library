@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["cloud_firestore|lib/cloud_firestore.dart","demo|lib/models/Tree.dart","demo|lib/pages/list_tree_page/detail_tree.dart","demo|lib/services/FirestoreService.dart","flutter|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

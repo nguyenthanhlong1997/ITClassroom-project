@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["cloud_firestore|lib/cloud_firestore.dart","demo|lib/models/Tree.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml:2:3-50
+		INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml
+		INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml
+INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml
+		ADDED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml
+		INJECTED from D:\Devs Setup\flutter_windows_v1.9.1+hotfix.6-stable\flutter\.pub-cache\hosted\pub.dartlang.org\cloud_firestore-0.11.0+2\android\src\main\AndroidManifest.xml

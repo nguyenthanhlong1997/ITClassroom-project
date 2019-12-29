@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["firebase_core_platform_interface|lib/firebase_core_platform_interface.dart","flutter|lib/foundation.dart","meta|lib/meta.dart"],"parts":["firebase_core|lib/src/firebase_app.dart"],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

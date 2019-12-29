@@ -1,0 +1,1 @@
+{"p":["demo","lib/pages/login_signup_page/login_signup_page.dart"],"s":[["demo","lib/pages/login_signup_page/login_signup_page.dart"]],"d":[["demo","lib/services/authentication.dart"],["firebase_auth","lib/firebase_auth.dart"],["flutter","lib/material.dart"]],"m":false,"is":true,"pf":"flutter_web"}
